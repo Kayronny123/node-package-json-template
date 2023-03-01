@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "sim",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "buscarPorBrasil": "node index.js B",
+    "addPais": "node add.js",
+    "idade": "node idade.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayronny123/node-package-json-template.git"
+  },
+  "author": "rogerio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayronny123/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Kayronny123/node-package-json-template#readme"
+}
